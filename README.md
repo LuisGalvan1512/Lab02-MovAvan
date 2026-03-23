@@ -1,1 +1,1 @@
-# Lab02-MovAvan
+# Lab02-Moviles Avanzados
